@@ -516,15 +516,15 @@ img {
     justify-content: center;
     gap: 16px;
 }
-.footer-social-media-list .footer-social-media-list-item {
+.footer-social-media-list-item {
     width: 40px;
     height: 40px;
     border-radius: 50%;
     background-color: var(--IRIS);
     gap: 24px;
     }
-.footer .footer-social-media-list-item:hover,
-.footer .footer-social-media-list-item:focus {
+.footer-social-media-list-item:hover,
+.footer-social-media-list-item:focus {
     background-color: var(--GREEN);
 }
 .social-media-icon {
