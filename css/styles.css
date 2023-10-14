@@ -417,6 +417,7 @@ img {
 .fifth-section-link:hover,
 .fifth-section-link:focus {
     color: var(--OCEAN);
+    border-color: var(--OCEAN);
 }
 .customer {
     fill: currentColor;
