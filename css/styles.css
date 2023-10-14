@@ -287,8 +287,11 @@ img {
     padding: 120px 0;
 }
 .fourth-section-list {
-    display: flex;
     gap: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 .fourth-section-heading {
     color: var(--NAVY-BLUE);
