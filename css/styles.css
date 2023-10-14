@@ -287,11 +287,17 @@ img {
     padding: 120px 0;
 }
 .fourth-section-list {
-
     display: flex;
     justify-content: center;
     align-items: center;
     
+}
+.social-media-list {
+    gap: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
 }
 .fourth-section-heading {
     color: var(--NAVY-BLUE);
@@ -348,13 +354,6 @@ img {
 }
 .person {
     padding: 32px 0;
-}
-.social-media-list {
-    gap: 24px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 8px;
 }
 .social-media-icon {
     width: 100%;
