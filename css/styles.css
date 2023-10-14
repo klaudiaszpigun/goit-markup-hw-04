@@ -396,7 +396,7 @@ img {
     height: 88px;
 }
 .fifth-section-list-item {
-    width: calc((100% - 120px)/6);
+    width: calc((100% - 120px) / 6);
     margin: 0;
     padding: 16px 32px;
     border: 1px solid var(--LIGHT-SLATE);
