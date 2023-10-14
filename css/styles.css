@@ -514,7 +514,7 @@ img {
 .footer-social-media-list {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 16 px;
 }
 .footer-social-media-list .footer-social-media-list-item {
     width: 40px;
