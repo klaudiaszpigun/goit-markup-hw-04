@@ -504,10 +504,8 @@ img {
 .social-media-list {
     display: flex;
     justify-content: center;
-    align-items: center;
     gap: 24px;
-    margin-top: 8px;
-    gap: 16px; 
+    margin-top: 8px
 }
 .social-media-list .social-media-list-item {
     width: 40px;
