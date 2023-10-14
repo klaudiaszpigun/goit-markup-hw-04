@@ -292,13 +292,6 @@ img {
     align-items: center;
     
 }
-.social-media-list {
-    gap: 24px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 8px;
-}
 .fourth-section-heading {
     color: var(--NAVY-BLUE);
     font-family: Roboto;
@@ -331,8 +324,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.32px;
     text-align: center;
-
 }
+
 .fourth-section-list-item {
     flex-basis: calc((100% - 72px) / 4);
     background: var(--WHITE);
@@ -521,6 +514,8 @@ img {
     height: 40px;
     border-radius: 50%;
     background-color: var(--IRIS);
+    gap: 24px;
+    }
 }
 
 .footer .social-media-list-item:hover,
