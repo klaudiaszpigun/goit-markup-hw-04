@@ -136,7 +136,8 @@ img {
     padding-bottom: 188px;
     background-image: linear-gradient( rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),  url('../images/hero-image.jpg');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
     align-items: center;
     justify-content: center;
 }
@@ -369,7 +370,7 @@ img {
 
 
 .fifth-section {
-    margin: 120px 0;
+    padding: 120px 0;
 }
 .fifth-section-heading {
     color: var(--NAVY-BLUE);
@@ -388,10 +389,10 @@ img {
     justify-content: center;
     align-items: center;
     gap: 24px;
-    width: calc((100%-120px)/6);
     height: 88px;
 }
 .fifth-section-list-item {
+    width: calc((100%-120px)/6);
     margin: 0;
     padding: 16px 32px;
     border: 1px solid var(--LIGHT-SLATE);
@@ -427,6 +428,7 @@ img {
 .footer-container {
     display: flex;
     flex-direction: row;
+    align-items: baseline;
 }
 .footer {
     background-color: var(--NAVY-BLUE);
