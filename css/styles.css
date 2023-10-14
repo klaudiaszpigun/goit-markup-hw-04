@@ -397,17 +397,22 @@ img {
 }
 .fifth-section-list-item {
     width: calc((100% - 120px) / 6);
-    margin: 0;
-    padding: 16px 32px;
-    border: 1px solid var(--LIGHT-SLATE);
-    border-radius: 4px;
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--LIGHT-SLATE);
 
+}
+.fifth-section-link {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--LIGHT-SLATE);
+    border-radius: 4px;
+    color: var(--LIGHT-SLATE);
 }
 .customer {
     fill: currentColor;
