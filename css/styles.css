@@ -353,7 +353,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 24px;
     margin-top: 8px;
 }
 .social-media-icon {
