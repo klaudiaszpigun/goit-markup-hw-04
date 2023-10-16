@@ -204,6 +204,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 8px;
 }
 .second-section .second-section-headings {
     font-size: 20px;
@@ -211,7 +212,6 @@ img {
     letter-spacing: 0.4px;
     font-weight: 500;
     color: var(--NAVY-BLUE-MODAL);
-    margin-bottom: 8px;
 }
 .about-us-list-item > .list-paragraph {
     color: var(--SLATE);
