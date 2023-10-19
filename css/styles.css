@@ -193,7 +193,6 @@ img {
 .about-us-list-item {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
     flex-basis: calc((100% - 72px) / 4);
 }
 .about-us-div {
@@ -212,6 +211,7 @@ img {
     letter-spacing: 0.4px;
     font-weight: 500;
     color: var(--NAVY-BLUE-MODAL);
+    margin-bottom: 8px;
 }
 .about-us-list-item > .list-paragraph {
     color: var(--SLATE);
